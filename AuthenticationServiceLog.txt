@@ -1,0 +1,69 @@
+2020-11-24 12:35:11,311 Application started. Press Ctrl+C to shut down.
+2020-11-24 12:35:11,334 Hosting environment: Development
+2020-11-24 12:35:11,337 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\AuthenticationService
+2020-11-24 12:35:18,009 get request initiated
+2020-11-24 12:35:31,464 get request initiated
+2020-11-24 12:35:54,707 get request initiated
+2020-11-24 12:36:18,317 get request initiated
+2020-11-24 12:36:32,363 Authentication initiated
+2020-11-24 12:36:34,036 Json web token generated
+2020-11-24 12:36:52,640 Authentication initiated
+2020-11-24 12:36:52,642 Json web token generated
+2020-11-24 12:37:03,072 Authentication initiated
+2020-11-24 12:37:03,072 User Not Found
+2020-11-24 15:50:21,630 Application started. Press Ctrl+C to shut down.
+2020-11-24 15:50:21,640 Hosting environment: Development
+2020-11-24 15:50:21,642 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\AuthenticationService
+2020-11-24 15:50:31,943 get request initiated
+2020-11-24 15:50:51,456 get request initiated
+2020-11-24 15:51:10,627 get request initiated
+2020-11-24 15:52:45,321 Application started. Press Ctrl+C to shut down.
+2020-11-24 15:52:45,331 Hosting environment: Development
+2020-11-24 15:52:45,333 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\AuthenticationService
+2020-11-24 15:52:57,085 get request initiated
+2020-11-29 16:28:04,688 Application started. Press Ctrl+C to shut down.
+2020-11-29 16:28:04,709 Hosting environment: Development
+2020-11-29 16:28:04,713 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\AuthenticationService
+2020-11-29 16:28:21,057 Authentication initiated
+2020-11-29 16:28:21,060 User Not Found
+2020-11-29 16:28:28,205 get request initiated
+2020-11-29 16:28:58,009 Authentication initiated
+2020-11-29 16:28:58,943 Json web token generated
+2020-11-29 16:29:15,341 Application started. Press Ctrl+C to shut down.
+2020-11-29 16:29:15,357 Hosting environment: Development
+2020-11-29 16:29:15,361 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\AuthenticationService
+2020-11-29 16:34:59,465 Application started. Press Ctrl+C to shut down.
+2020-11-29 16:34:59,591 Hosting environment: Development
+2020-11-29 16:34:59,595 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\AuthenticationService
+2020-11-29 16:41:04,285 Authentication initiated
+2020-11-29 16:41:20,816 Json web token generated
+2020-11-29 16:43:33,552 get request initiated
+2020-11-29 16:44:25,864 Authentication initiated
+2020-11-29 16:44:25,866 Json web token generated
+2020-11-29 16:47:22,586 Authentication initiated
+2020-11-29 16:47:22,588 Json web token generated
+2020-11-29 16:49:00,793 Authentication initiated
+2020-11-29 16:49:00,794 Json web token generated
+2020-11-29 16:50:04,924 Authentication initiated
+2020-11-29 16:50:04,927 Json web token generated
+2020-11-29 16:51:09,959 Authentication initiated
+2020-11-29 16:51:10,004 Json web token generated
+2020-11-29 17:05:15,703 Application started. Press Ctrl+C to shut down.
+2020-11-29 17:05:15,764 Hosting environment: Development
+2020-11-29 17:05:15,768 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\AuthenticationService
+2020-11-29 17:05:16,285 Authentication initiated
+2020-11-29 17:05:18,026 Json web token generated
+2020-11-29 17:06:54,586 Application started. Press Ctrl+C to shut down.
+2020-11-29 17:06:54,625 Hosting environment: Development
+2020-11-29 17:06:54,629 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\AuthenticationService
+2020-11-29 17:09:35,188 Authentication initiated
+2020-11-29 17:09:36,644 Json web token generated
+2020-11-29 17:16:29,707 Authentication initiated
+2020-11-29 17:16:29,769 Json web token generated
+2020-11-29 17:27:27,126 Authentication initiated
+2020-11-29 17:27:27,127 Json web token generated
+2020-11-29 17:44:34,753 Application started. Press Ctrl+C to shut down.
+2020-11-29 17:44:34,763 Hosting environment: Development
+2020-11-29 17:44:34,765 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\AuthenticationService
+2020-11-29 17:45:49,901 Authentication initiated
+2020-11-29 17:45:50,234 Json web token generated
